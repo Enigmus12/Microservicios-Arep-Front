@@ -1,0 +1,8 @@
+:root {
+  --bg-color: #ffffff;
+  --text-color: #222222;
+  --muted: #666666;
+  --primary: #1e90ff;
+}
+
+/* This file exists to satisfy imports from App.css. Customize as needed. */
